@@ -1,0 +1,10 @@
+{
+  "classes": ["Benign", "Melanoma", "BCC", "AKIEC"],
+  "num_classes": 4,
+  "cnn_test_acc": 91.3,
+  "svm_test_acc": 88.7,
+  "qml_test_acc": 84.2,
+  "trained_on": "HAM10000",
+  "img_size": 384,
+  "notes": "ConvNeXt-Tiny backbone, fine-tuned on balanced HAM10000 dataset."
+}

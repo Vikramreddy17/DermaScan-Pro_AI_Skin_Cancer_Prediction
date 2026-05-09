@@ -1,0 +1,57 @@
+{
+  "0": {
+    "code": "Benign",
+    "name": "Benign Lesion",
+    "category": "benign",
+    "is_cancer": false,
+    "precautions": [
+      "Continue routine skin self-examinations monthly.",
+      "Use broad-spectrum SPF 30+ sunscreen daily.",
+      "Wear protective clothing and avoid peak UV hours (10am–4pm).",
+      "Schedule an annual full-body skin check with a dermatologist.",
+      "Monitor the lesion for any changes in size, shape, or colour."
+    ]
+  },
+  "1": {
+    "code": "MEL",
+    "name": "Melanoma",
+    "category": "malignant",
+    "is_cancer": true,
+    "precautions": [
+      "Seek urgent consultation with a dermatologist or oncologist.",
+      "Do NOT attempt self-treatment or removal.",
+      "Photograph the lesion and document any changes immediately.",
+      "Avoid all sun exposure and use SPF 50+ sunscreen.",
+      "Request a dermoscopy and possible biopsy for definitive diagnosis.",
+      "Inform close family members — melanoma has a hereditary component."
+    ]
+  },
+  "2": {
+    "code": "BCC",
+    "name": "Basal Cell Carcinoma",
+    "category": "malignant",
+    "is_cancer": true,
+    "precautions": [
+      "Consult a dermatologist promptly for clinical evaluation.",
+      "Biopsy may be required to confirm the diagnosis.",
+      "Avoid further sun exposure to the affected area.",
+      "Apply daily sunscreen (SPF 50+) and wear protective clothing.",
+      "Discuss treatment options: excision, Mohs surgery, or topical therapy.",
+      "Schedule regular follow-ups as recurrence is possible."
+    ]
+  },
+  "3": {
+    "code": "AKIEC",
+    "name": "Actinic Keratosis / Intraepithelial Carcinoma",
+    "category": "malignant",
+    "is_cancer": true,
+    "precautions": [
+      "Seek dermatological evaluation — this is a pre-cancerous lesion.",
+      "Treatment options include cryotherapy, topical creams, or photodynamic therapy.",
+      "Strictly avoid sun exposure and apply broad-spectrum SPF 50+ sunscreen.",
+      "Wear UV-protective clothing, hats, and sunglasses outdoors.",
+      "Attend regular skin surveillance appointments every 6 months.",
+      "Quit smoking — it is a known risk factor for actinic keratosis progression."
+    ]
+  }
+}

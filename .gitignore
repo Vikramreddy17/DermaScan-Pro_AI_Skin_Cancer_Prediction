@@ -1,0 +1,39 @@
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# PyTorch/Models
+# If you want to push models to GitHub, comment these out.
+# Since GitHub has a 100MB limit per file, large model weights usually aren't pushed.
+*.pth
+*.pt
+*.joblib
+*.pkl
+
+# Uploads / History
+static/history/*
+!static/history/.gitkeep
+
+# IDEs and VS Code
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS generated files
+.DS_Store
+Thumbs.db
