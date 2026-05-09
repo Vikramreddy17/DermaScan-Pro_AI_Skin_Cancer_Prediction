@@ -21,10 +21,11 @@
 
 *(To display the screenshots you sent, place the 4 images you have inside a folder named `assets` in your project folder, and name them `image1.jpg`, `image2.jpg`, `image3.jpg`, `image4.jpg`. If you named them differently, update the paths below!)*
 
-![Clinical Dashboard 1](assets/image1.jpg)
-![Clinical Dashboard 2](assets/image2.jpg)
-![Engine Diagnostics 1](assets/image3.jpg)
-![Engine Diagnostics 2](assets/image4.jpg)
+![Clinical Dashboard 1](assets/image1.jpeg)
+![Clinical Dashboard 2](assets/image2.jpeg)
+![Engine Diagnostics 1](assets/image3.jpeg)
+![Engine Diagnostics 2](assets/image4.jpeg)
+![Additional View](assets/image5.jpeg)
 
 ## 🛠️ Technology Stack
 
