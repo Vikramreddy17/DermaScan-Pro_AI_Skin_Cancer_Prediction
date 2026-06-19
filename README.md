@@ -1,6 +1,18 @@
-# DermaScan Pro - AI Diagnostic Suite
+<div align="center">
+  <h1>🔬 DermaScan Pro</h1>
+  <h3>AI Diagnostic Suite</h3>
+  <p><i>An advanced AI Diagnostic Suite designed for skin cancer detection, combining CNN, SVM, and QML.</i></p>
+  
+  <p>
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+    <img alt="Flask" src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white">
+    <img alt="PyTorch" src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white">
+  </p>
+</div>
 
-**DermaScan Pro** is an advanced AI Diagnostic Suite designed for skin cancer detection. It utilizes an ensemble approach combining Convolutional Neural Networks (CNN), Support Vector Machines (SVM), and Quantum Machine Learning (QML) for high-accuracy clinical analysis and predictions.
+---
+
+**DermaScan Pro** utilizes an ensemble approach combining **Convolutional Neural Networks (CNN)**, **Support Vector Machines (SVM)**, and **Quantum Machine Learning (QML)** for high-accuracy clinical analysis and predictions.
 
 ## 🌟 Key Features
 
@@ -19,13 +31,38 @@
 
 ## 📸 Screenshots
 
-*(To display the screenshots you sent, place the 4 images you have inside a folder named `assets` in your project folder, and name them `image1.jpg`, `image2.jpg`, `image3.jpg`, `image4.jpg`. If you named them differently, update the paths below!)*
+*(Note: To display these screenshots locally, ensure the 5 images are inside an `assets` folder in your project root, named `image1.jpeg` through `image5.jpeg`.)*
 
-![Clinical Dashboard 1](assets/image1.jpeg)
-![Clinical Dashboard 2](assets/image2.jpeg)
-![Engine Diagnostics 1](assets/image3.jpeg)
-![Engine Diagnostics 2](assets/image4.jpeg)
-![Additional View](assets/image5.jpeg)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center">
+        <img src="assets/image1.jpeg" width="300px" alt="Clinical Dashboard 1" style="border-radius: 8px;"/><br>
+        <sub><i><b>Clinical Dashboard 1:</b> Main overview of the diagnostic interface</i></sub>
+      </td>
+      <td align="center">
+        <img src="assets/image2.jpeg" width="300px" alt="Clinical Dashboard 2" style="border-radius: 8px;"/><br>
+        <sub><i><b>Clinical Dashboard 2:</b> Detailed lesion analysis and insights</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="assets/image3.jpeg" width="300px" alt="Engine Diagnostics 1" style="border-radius: 8px;"/><br>
+        <sub><i><b>Engine Diagnostics 1:</b> AI confidence and probability scores</i></sub>
+      </td>
+      <td align="center">
+        <img src="assets/image4.jpeg" width="300px" alt="Engine Diagnostics 2" style="border-radius: 8px;"/><br>
+        <sub><i><b>Engine Diagnostics 2:</b> Ensemble model performance tracking</i></sub>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <img src="assets/image5.jpeg" width="350px" alt="Additional View" style="border-radius: 8px;"/><br>
+        <sub><i><b>Additional View:</b> Final comprehensive diagnostic report</i></sub>
+      </td>
+    </tr>
+  </table>
+</div>
 
 ## 🛠️ Technology Stack
 
